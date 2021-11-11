@@ -7,7 +7,7 @@
 
 
 <!-- Mi actividad -->
-<h2 align="center"> Mi Actividad 📊 </h1>
+<h2 align="center"> Mi Actividad 📊 </h2>
 <p align="center">
   
   <a href="https://github-readme-stats.vercel.app/api?username=DyLaNHurtado&show_icons=true&theme=dracula">
@@ -19,9 +19,13 @@
 </p>
 
 <!-- Trofeos -->
+<h2 align="center"> Mis Trofeos 🏆 </h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DyLaNHurtado&row=2&column=3&theme=onedark" alt="DyLaNHurtado" height= 250/></a>
 </p>
+
+<h2 align="center"> Lenguajes y Tecnologias favoritas: ⚙️ </h2>
+
 
 
 <!--
