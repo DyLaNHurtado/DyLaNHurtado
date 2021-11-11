@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!-- Banner -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/DyLaNHurtado/DyLaNHurtado/master/images/DyLaNHurtado.gif" height="150" alt="DyLaNHurtado"/>
+<img src="https://raw.githubusercontent.com/DyLaNHurtado/DyLaNHurtado/master/images/DyLaNHurtado.gif" height="250" alt="DyLaNHurtado"/>
 </p>
 
 <!-- Mi actividad -->
