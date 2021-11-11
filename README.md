@@ -3,7 +3,11 @@
 <img src="https://raw.githubusercontent.com/DyLaNHurtado/DyLaNHurtado/master/images/DyLaNHurtado.gif" height="290" alt="DyLaNHurtado"/>
 </p>
 <h1 align="center"> 👋 Buenas, soy Dylan 👻 </h1>
+
+
+
 <!-- Mi actividad -->
+<h2 align="center"> Mi Actividad 📊 </h1>
 <p align="center">
   
   <a href="https://github-readme-stats.vercel.app/api?username=DyLaNHurtado&show_icons=true&theme=dracula">
