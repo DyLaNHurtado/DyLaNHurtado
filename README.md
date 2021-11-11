@@ -1,4 +1,6 @@
 ### Hi there 👋
+<!-- Banner -->
+<img loading="lazy" src="https://raw.githubusercontent.com/DyLaNHurtado/DyLaNHurtado/master/images/DyLaNHurtado.gif" height="200" alt="DyLaNHurtado"/>
 
 
 <!-- Mi actividad -->
