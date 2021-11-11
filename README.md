@@ -11,7 +11,7 @@
 <p align="center">
   
   <a href="https://github-readme-stats.vercel.app/api?username=DyLaNHurtado&show_icons=true&theme=dracula">
-    <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=DyLaNHurtado&show_icons=true&theme=dracula" height="200" alt="DyLaNHurtado"/>
+    <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=DyLaNHurtado&show_icons=true&theme=dracula" height="250" alt="DyLaNHurtado"/>
   </a> 
    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DyLaNHurtado&theme=dracula">
     <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyLaNHurtado&theme=dracula" height="250"/>
