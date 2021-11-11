@@ -1,4 +1,18 @@
 ### Hi there 👋
+
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=joseluisgs&show_icons=true&theme=vue">
+    <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=DyLaNHurtado&show_icons=true&theme=discord" height="175" alt="joseluisgs"/>
+  </a> 
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluisgs&theme=vue&layout=compact">
+    <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyLaNHurtado&theme=discord&layout=compact" height="175"/>
+  </a> 
+</p>
+
+
+
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DyLaNHurtado&row=2&column=3&theme=onedark" alt="DyLaNHurtado" height= 250/></a>
 </p>
