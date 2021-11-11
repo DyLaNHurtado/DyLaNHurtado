@@ -4,11 +4,11 @@
 <!-- Mi actividad -->
 <p align="center">
   
-  <a href="https://github-readme-stats.vercel.app/api?username=joseluisgs&show_icons=true&theme=vue">
-    <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=DyLaNHurtado&show_icons=true&theme=discord" height="175" alt="joseluisgs"/>
+  <a href="https://github-readme-stats.vercel.app/api?username=DyLaNHurtado&show_icons=true&theme=dracula">
+    <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=DyLaNHurtado&show_icons=true&theme=dracula" height="175" alt="DyLaNHurtado"/>
   </a> 
-   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DyLaNHurtado&theme=vue&layout=compact">
-    <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyLaNHurtado&theme=discord&layout=compact" height="175"/>
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DyLaNHurtado&theme=dracula">
+    <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyLaNHurtado&theme=dracula" height="175"/>
   </a> 
 </p>
 
