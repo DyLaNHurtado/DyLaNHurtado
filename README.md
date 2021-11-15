@@ -9,20 +9,35 @@
 
 
 <h1 align="center"> 👋 Buenas, soy Dylan 👨🏻‍💻👻 </h1>
-<p align="center">Soy Técnico Superior en desarrollo de Aplicaciones Multiplaforma</p>
 
+  
+  <h3 align="center">Soy Técnico Superior en Desarrollo de Aplicaciones Multiplaforma 💻🖥️📱</h3>
+  <p align="center">
+  En mis ratos libres enchufo la guitarra 🎸 al amplificador 📻 y las horas vuelan 🛩️. 
+
+</p>
+
+<!-- Contacto  -->
 <h2 align="center"> Contacto 🗣️ </h2>
 
-https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon-1.png
-https://cdn2.iconfinder.com/data/icons/minimalism/512/twitter.png
-https://logospng.org/download/linkedin/logo-linkedin-icon-1536.png
 
-- **Correo** : dylanhurtado43@gmail.com
-- **Twitter** : DyLaNHurtado
-- **LinkedIn** : https://es.linkedin.com/in/dylan-hurtado-a88535225
+<p align="center">
+  
+  <!-- Gmail -->
+  <a href="mailto:dylanhurtado43@gmail.com">
+    <img loading="lazy" src="https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon-1.png" height="50" alt="gmail"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/dylan-hurtado-a88535225/">
+    <img loading="lazy" src="https://logospng.org/download/linkedin/logo-linkedin-icon-1536.png" height="55"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Twitter -->
+   <a href="https://twitter.com/DyLaNHurtado_">
+    <img loading="lazy" src="https://cdn2.iconfinder.com/data/icons/minimalism/512/twitter.png" height="55"/>
+  </a> 
+</p>
 
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <!-- Mi actividad -->
 <h2 align="center"> Mi Actividad 📊 </h2>
