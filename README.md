@@ -2,10 +2,27 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/DyLaNHurtado/DyLaNHurtado/master/images/DyLaNHurtado.gif" height="290" alt="DyLaNHurtado"/>
 </p>
+<!--PROFILE VIEW CONT-->
+<p align="center">
+<img loading="lazy" src="https://komarev.com/ghpvc/?username=DyLaNHurtado&style=flat&color=42b983&label=PROFILE+VIEWS" />
+</p>
+
+
 <h1 align="center"> 👋 Buenas, soy Dylan 👨🏻‍💻👻 </h1>
 <p align="center">Soy Técnico Superior en desarrollo de Aplicaciones Multiplaforma</p>
 
+<h2 align="center"> Contacto 🗣️ </h2>
 
+https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon-1.png
+https://cdn2.iconfinder.com/data/icons/minimalism/512/twitter.png
+https://logospng.org/download/linkedin/logo-linkedin-icon-1536.png
+
+- **Correo** : dylanhurtado43@gmail.com
+- **Twitter** : DyLaNHurtado
+- **LinkedIn** : https://es.linkedin.com/in/dylan-hurtado-a88535225
+
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <!-- Mi actividad -->
 <h2 align="center"> Mi Actividad 📊 </h2>
@@ -57,7 +74,7 @@
 
   
 <h2 align="center"> Tecnologias favoritas 🛠️ </h2>
-<p align="center">Las tecnogias en las que me manejo mejor son 👀: </p>
+<p align="center"> Las tecnogias en las que me manejo mejor son 👀: </p>
 <p align="center">
   <!--GIT-->
   <img loading="lazy" src="https://camo.githubusercontent.com/c084dd81e1577424180d491bd4cc9d4b9ff1268dfbf9142eb0ac442d61906c05/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3635302f312a7a7a7664526d484747584f4e5a7075513246657173512e706e67" 
