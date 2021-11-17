@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/DyLaNHurtado/DyLaNHurtado/master/images/DyLaNHurtado.gif" height="290" alt="DyLaNHurtado"/>
+<img src="https://raw.githubusercontent.com/DyLaNHurtado/DyLaNHurtado/master/images/DyLaNHurtado.png" width="1400"  alt="DyLaNHurtado"/>
 </p>
 <!--PROFILE VIEW CONT-->
 <p align="center">
@@ -46,16 +46,16 @@
 <p align="center">
   
   <!-- Gmail -->
-  <a href="mailto:dylanhurtado43@gmail.com">
-    <img loading="lazy" src="https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon-1.png" height="50" alt="gmail"/>
+  <a href="mailto:dylanhurtado43@gmail.com" target="_blank">
+    <img loading="lazy" src="https://raw.githubusercontent.com/DyLaNHurtado/DyLaNHurtado/master/images/gmail.png" height="100" alt="gmail"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/dylan-hurtado-a88535225/">
-    <img loading="lazy" src="https://logospng.org/download/linkedin/logo-linkedin-icon-1536.png" height="55"/>
+  <a href="https://www.linkedin.com/in/dylan-hurtado-a88535225/" target="_blank">
+    <img loading="lazy" src="https://raw.githubusercontent.com/DyLaNHurtado/DyLaNHurtado/master/images/linkedIn.png" height="100"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Twitter -->
-   <a href="https://twitter.com/DyLaNHurtado_">
-    <img loading="lazy" src="https://cdn2.iconfinder.com/data/icons/minimalism/512/twitter.png" height="55"/>
+   <a href="https://twitter.com/DyLaNHurtado_" target="_blank">
+    <img loading="lazy" src="https://raw.githubusercontent.com/DyLaNHurtado/DyLaNHurtado/master/images/twitter.png" height="100"/>
   </a> 
 </p>
 
