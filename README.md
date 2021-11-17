@@ -11,8 +11,22 @@
 <h1 align="center"> 👋 Buenas, soy Dylan 👨🏻‍💻👻 </h1>
 
   
-  <h3 align="center">Soy Técnico Superior en Desarrollo de Aplicaciones Multiplaforma 💻🖥️📱</h3>
+  <h3 align="center"> Soy Técnico Superior en Desarrollo de Aplicaciones Multiplaforma 💻🖥️📱</h3>
+  
+  <h4 align="center"><b>Me dedico 💼 a</b> ... </h4>
   <p align="center">
+  <ul>
+  <li>Desarrollar software de todo tipo y siempre intento aprender nuevos conceptos, lenguajes o tecnologias.
+  Cada aplicacion por desarrollar es un mundo por descubir 🌍.</li>
+  
+  <li>Me interesa la Ciberseguridad 🔐 y suelo practicar de manera autodidacta en webs 🌐 como <a href="https://tryhackme.com/" target="_blank"><b>TryHackMe</b></a> o <a href="https://www.hackthebox.com/" target="_blank"><b>HackTheBox</b></a> que proponen máquinas virtuales para atacarlas 💣💥.</li>
+  
+<li>He realizado proyectos de videojuegos indie en Unity 🕹️ y conozco bien las bases sobre todo en 2D👾.</li>
+
+
+</ul>
+  
+  
   En mis ratos libres enchufo la guitarra 🎸 al amplificador 📻 y las horas vuelan 🛩️. 
 
 </p>
@@ -39,24 +53,7 @@
 
 
 
-<!-- Mi actividad -->
-<h2 align="center"> Mi Actividad 📊 </h2>
-<p align="center">
-  
-  <a href="https://github-readme-stats.vercel.app/api?username=DyLaNHurtado&show_icons=true&theme=dracula">
-    <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=DyLaNHurtado&show_icons=true&theme=dracula" height="220" alt="DyLaNHurtado"/>
-  </a> 
-   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DyLaNHurtado&theme=dracula">
-    <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyLaNHurtado&theme=dracula" height="220"/>
-  </a> 
-</p>
-
-<!-- Trofeos -->
-<h2 align="center"> Mis Trofeos 🏆 </h2>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DyLaNHurtado&row=2&column=3&theme=onedark" alt="DyLaNHurtado" height= 250/></a>
-</p>
-
+<!-- Lenguajes -->
 <h2 align="center"> Lenguajes 💬 </h2>
 <p align="center">Estos son los lenguajes en los que suelo programar, pero siempre estoy dispuesto a aprender uno nuevo 🧠🤓</p>
 
@@ -87,7 +84,7 @@
   height="50" />
   </p>
 
-  
+  <!-- Tecnologias Favoritas -->
 <h2 align="center"> Tecnologias favoritas 🛠️ </h2>
 <p align="center"> Las tecnogias en las que me manejo mejor son 👀: </p>
 <p align="center">
@@ -116,6 +113,25 @@
   <img loading="lazy" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" 
   height="65" />
   </p>
+
+
+<!-- Mi actividad -->
+<h2 align="center"> Mi Actividad 📊 </h2>
+<p align="center">
+  
+  <a href="https://github-readme-stats.vercel.app/api?username=DyLaNHurtado&show_icons=true&theme=dracula">
+    <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=DyLaNHurtado&show_icons=true&theme=dracula" height="220" alt="DyLaNHurtado"/>
+  </a> 
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DyLaNHurtado&theme=dracula">
+    <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyLaNHurtado&theme=dracula" height="220"/>
+  </a> 
+</p>
+
+<!-- Trofeos -->
+<h2 align="center"> Mis Trofeos 🏆 </h2>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DyLaNHurtado&row=2&column=3&theme=onedark" alt="DyLaNHurtado" height= 250/></a>
+</p>
 
 ...
 
