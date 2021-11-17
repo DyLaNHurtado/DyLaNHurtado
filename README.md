@@ -48,11 +48,11 @@
   <!-- Gmail -->
   <a href="mailto:dylanhurtado43@gmail.com" target="_blank">
     <img loading="lazy" src="https://raw.githubusercontent.com/DyLaNHurtado/DyLaNHurtado/master/images/gmail.png" height="100" alt="gmail"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
     <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/dylan-hurtado-a88535225/" target="_blank">
     <img loading="lazy" src="https://raw.githubusercontent.com/DyLaNHurtado/DyLaNHurtado/master/images/linkedIn.png" height="100"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
   <!-- Twitter -->
    <a href="https://twitter.com/DyLaNHurtado_" target="_blank">
     <img loading="lazy" src="https://raw.githubusercontent.com/DyLaNHurtado/DyLaNHurtado/master/images/twitter.png" height="100"/>
