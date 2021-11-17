@@ -13,26 +13,34 @@
   
   <h3 align="center"> Soy Técnico Superior en Desarrollo de Aplicaciones Multiplaforma 💻🖥️📱</h3>
   
+  
+  <!-- Me dedico a  -->
   <h4 align="center"><b>Me dedico 💼 a</b> ... </h4>
   <p align="center">
   <ul>
   <li>Desarrollar software de todo tipo y siempre intento aprender nuevos conceptos, lenguajes o tecnologias.
-  Cada aplicacion por desarrollar es un mundo por descubir 🌍.</li>
+  Cada <b>aplicacion por desarrollar</b> es un <b>mundo por descubir</b> 🌍.</li>
   
   <li>Me interesa la Ciberseguridad 🔐 y suelo practicar de manera autodidacta en webs 🌐 como <a href="https://tryhackme.com/" target="_blank"><b>TryHackMe</b></a> o <a href="https://www.hackthebox.com/" target="_blank"><b>HackTheBox</b></a> que proponen máquinas virtuales para atacarlas 💣💥.</li>
   
-<li>He realizado proyectos de videojuegos indie en Unity 🕹️ y conozco bien las bases sobre todo en 2D👾.</li>
-
+<li>He realizado proyectos de videojuegos indie en Unity 🕹️ y conozco bien las bases sobre todo en 2D 👾.</li>
 
 </ul>
   
-  
-  En mis ratos libres enchufo la guitarra 🎸 al amplificador 📻 y las horas vuelan 🛩️. 
-
+ </p> 
+ <!-- Hobbies  -->
+ <h4 align="center"><b>Hobbies</b> ✨</h4>
+ <p align="center">
+  <ul>
+    <li>Me gusta dibujar y pintar con diferentes técnicas 👨🏻‍🎨, me relaja mucho 😌.</li>
+  <li>Cuando enchufo la guitarra 🎸 al amplificador 📻 las horas vuelan 🛩️. </li>
+    <li>De vez en cuando veo alguna Serie 📺 / Pelicula 🎬 / Anime ⛩️. Pero mejor ir al cine 🎥🎞️ y luego tomar algo 😋.</li>
+    <li>Juego a videojuegos 🎮, mis preferidos son los de Terror 💀 , Rol 🧙🏻‍♂️ , Mobas ⚔️ o Shooters 🔫</li>
+</ul>
 </p>
 
 <!-- Contacto  -->
-<h2 align="center"> Contacto 🗣️ </h2>
+<h2 align="center"> Contacto 🗣️📨 </h2>
 
 
 <p align="center">
@@ -109,6 +117,9 @@
   <!--VIRTUALBOX-->
   <img loading="lazy" src="https://www.freepngimg.com/download/ubuntu/76636-icons-boxing-virtual-machine-computer-operating-systems.png" 
   height="55" />
+    <!--UNITY-->
+  <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" 
+  height="55">
   <!--ANDROID_STUDIO-->
   <img loading="lazy" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" 
   height="65" />
