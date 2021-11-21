@@ -141,7 +141,7 @@
 <!-- Trofeos -->
 <h2 align="center"> Mis Trofeos 🏆 </h2>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DyLaNHurtado&row=2&column=3&theme=onedark" alt="DyLaNHurtado" height= 250/></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DyLaNHurtado&row=2&column=3&theme=onestar" alt="DyLaNHurtado" height= 250/></a>
 </p>
 
 ...
