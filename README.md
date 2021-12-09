@@ -23,7 +23,7 @@
   
   <li>Me interesa la Ciberseguridad 🔐 y suelo practicar de manera autodidacta en webs 🌐 como <a href="https://tryhackme.com/" target="_blank"><b>TryHackMe</b></a> o <a href="https://www.hackthebox.com/" target="_blank"><b>HackTheBox</b></a> que proponen máquinas virtuales para atacarlas 💣💥.</li>
   
-<li>He realizado proyectos de videojuegos indie en Unity 🕹️ y conozco bien las bases sobre todo en 2D 👾.</li>
+<li>He realizado proyectos de videojuegos indie en Unity 🕹️ sobre todo en 2D 👾.</li>
 
 </ul>
   
