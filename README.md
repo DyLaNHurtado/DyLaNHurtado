@@ -18,12 +18,10 @@
   <h4 align="center"><b>Me dedico 💼 a</b> ... </h4>
   <p align="center">
   <ul>
-  <li>Desarrollar software de todo tipo y siempre intento aprender nuevos conceptos, lenguajes o tecnologias.
+  <li>Desarrollar software de todo tipo y siempre intento aprender nuevos conceptos.
   Cada <b>aplicacion por desarrollar</b> es un <b>mundo por descubir</b> 🌍.</li>
   
-  <li>Me interesa la Ciberseguridad 🔐 y suelo practicar de manera autodidacta en webs 🌐 como <a href="https://tryhackme.com/" target="_blank"><b>TryHackMe</b></a> o <a href="https://www.hackthebox.com/" target="_blank"><b>HackTheBox</b></a> que proponen máquinas virtuales para atacarlas 💣💥.</li>
-  
-<li>He realizado proyectos de videojuegos indie en Unity 🕹️ sobre todo en 2D 👾.</li>
+  <li>Me interesa la Ciberseguridad 🔐 y suelo practicar de manera autodidacta en webs 🌐 como <a href="https://www.hackthebox.com/" target="_blank"><b>HackTheBox</b></a> que proponen máquinas virtuales para atacarlas 💣💥.</li>
 
 </ul>
   
@@ -62,15 +60,12 @@
 
 
 <!-- Lenguajes -->
-<h2 align="center"> Lenguajes 💬 </h2>
-<p align="center">Estos son los lenguajes en los que suelo programar, pero siempre estoy dispuesto a aprender uno nuevo 🧠🤓</p>
+<h2 align="center"> Tecnologia 💬 </h2>
+<p align="center">Estos son las tecnologias en las que suelo programar 🧠🤓</p>
 
 <p align="center">
   <!--JAVA-->
   <img loading="lazy" src="https://user-images.githubusercontent.com/90937483/141752239-e0942533-e1dc-4bad-b714-86c052dffe09.png" 
-  height="50" />
-  <!--C#-->
-  <img loading="lazy" src="http://www.freeiconspng.com/uploads/c-logo-icon-18.png" 
   height="50" />
   <!--PYTHON-->
   <img loading="lazy" src="https://user-images.githubusercontent.com/90937483/141752846-5629c1ae-1a7e-4c86-a558-7b4ee68cc26f.png" 
@@ -78,23 +73,29 @@
   <!--BASH-->
   <img loading="lazy" src="https://img.icons8.com/plasticine/2x/bash.png" 
   height="60" />
+  <!--SQL-->
+  <img loading="lazy" src="http://www.faceofit.com/wp-content/uploads/2016/04/logoAzureSql.png" 
+  height="50" />
   <!--HTML5-->
   <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" 
     height="60" />
   <!--CSS3-->
   <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" 
   height="60" />
-  <!--SQL-->
-  <img loading="lazy" src="http://www.faceofit.com/wp-content/uploads/2016/04/logoAzureSql.png" 
+   <!--JS-->
+  <img loading="lazy" src="https://camo.githubusercontent.com/72c27477f91493365e44b44306740892911721464f3f25d5b706c5deab24bfc2/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39392f556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e7376672f34383070782d556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e7376672e706e67" 
   height="50" />
-  <!--KOTLIN-->
+  <!--MONGODB-->
+  <img loading="lazy" src="https://camo.githubusercontent.com/76eef8f3cc351a6227d1ead376a039599f45c06efc48a6da32ec62f5482b34da/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6d6f6e676f64622d69636f6e2d312e737667" 
+  height="65" />
+  <!--KOTLIN
   <img loading="lazy" src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-1-logo-png-transparent.png" 
-  height="50" />
+  height="50" />-->
   </p>
 
-  <!-- Tecnologias Favoritas -->
-<h2 align="center"> Tecnologias favoritas 🛠️ </h2>
-<p align="center"> Las tecnogias en las que me manejo mejor son 👀: </p>
+  <!-- Herramientas Favoritas -->
+<h2 align="center"> Herramientas favoritas 🛠️ </h2>
+<p align="center"> Las Herramientas en las que me manejo mejor son 👀: </p>
 <p align="center">
   <!--GIT-->
   <img loading="lazy" src="https://camo.githubusercontent.com/c084dd81e1577424180d491bd4cc9d4b9ff1268dfbf9142eb0ac442d61906c05/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3635302f312a7a7a7664526d484747584f4e5a7075513246657173512e706e67" 
