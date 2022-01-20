@@ -61,7 +61,7 @@
 
 <!-- Lenguajes -->
 <h2 align="center"> Tecnologia 💬 </h2>
-<p align="center">Estos son las tecnologias en las que suelo programar 🧠🤓</p>
+<p align="center">Estas son las tecnologias en las que suelo programar 🧠🤓</p>
 
 <p align="center">
   <!--JAVA-->
