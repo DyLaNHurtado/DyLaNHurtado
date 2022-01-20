@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/DyLaNHurtado/DyLaNHurtado/master/images/DyLaNHurtado.png" width="1400"  alt="DyLaNHurtado"/>
+<img src="https://raw.githubusercontent.com/DyLaNHurtado/DyLaNHurtado/master/images/DyLaNHurtado.gif" alt="DyLaNHurtado"/>
 </p>
 <!--PROFILE VIEW CONT-->
 <p align="center">
