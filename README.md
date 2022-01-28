@@ -131,18 +131,17 @@
 <h2 align="center"> Mi Actividad 📊 </h2>
 <p align="center">
   
-  <a href="https://github-readme-stats.vercel.app/api?username=DyLaNHurtado&show_icons=true&theme=dracula">
-    <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=DyLaNHurtado&show_icons=true&theme=dracula" height="220" alt="DyLaNHurtado"/>
+  <a href="https://github-readme-stats.vercel.app/api?username=DyLaNHurtado&show_icons=true&theme=react">
+    <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=DyLaNHurtado&show_icons=true&theme=react" height="220" alt="DyLaNHurtado"/>
   </a> 
-   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DyLaNHurtado&theme=dracula">
-    <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyLaNHurtado&theme=dracula" height="220"/>
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DyLaNHurtado&theme=react">
+    <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyLaNHurtado&theme=react&layout=compact" height="220"/>
   </a> 
 </p>
-
 <!-- Trofeos -->
 <h2 align="center"> Mis Trofeos 🏆 </h2>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DyLaNHurtado&row=2&column=3&theme=onestar" alt="DyLaNHurtado" height= 250/></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/username=DyLaNHurtado&row=2&column=3&theme=onestar" alt="DyLaNHurtado" height= 250/></a>
 </p>
 
 ...
